@@ -48,6 +48,14 @@ I am a passionate networking engineer who loves building clean, modular, and rel
 
 ---
 
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Oxil05&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 📫 Connect with Me
 
 * 📧 Email: [capisondajhonedrian@gmail.com](mailto:capisondajhonedrian@gmail.com)
