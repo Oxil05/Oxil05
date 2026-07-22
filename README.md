@@ -7,7 +7,7 @@
   <a href="mailto:capisondajhonedrian@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
-<h3 align="center">🚀 Networking Engineer & Open Source Developer</h3>
+<h3 align="center">🚀 Aspiring Network Engineer</h3>
 
 <!-- HEADER END -->
 
@@ -15,7 +15,7 @@
 
 ### 📖 About Me
 
-I am a passionate networking engineer who loves building clean, modular, and reliable networks & systems. I enjoy experimenting with new technologies and developing solutions for real-world scenarios.
+I am an aspiring network engineer who loves building clean, modular, and reliable networks & systems. I enjoy experimenting with new technologies and developing solutions for real-world scenarios.
 
 - 🔭 I’m currently working on enhancing my **[PersonalPortfolio](https://github.com/Oxil05/PersonalPortfolio)**
 - 🌱 I’m currently expanding my knowledge in web development and systems prototype design.
