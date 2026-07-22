@@ -4,11 +4,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[your_linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:[your_email]@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:capisondajhonedrian@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
-<h3 align="center">🚀 Software Engineer & Open Source Developer</h3>
+<h3 align="center">🚀 Networking Engineer & Open Source Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/normal-badge.png?id=Oxil05&color=purple&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -19,7 +18,7 @@
 
 ### 📖 About Me
 
-I am a passionate software engineer who loves building clean, modular, and user-centric applications. I enjoy experimenting with new technologies and developing solutions for real-world scenarios.
+I am a passionate networking engineer who loves building clean, modular, and reliable networks & systems. I enjoy experimenting with new technologies and developing solutions for real-world scenarios.
 
 - 🔭 I’m currently working on enhancing my **[PersonalPortfolio](https://github.com/Oxil05/PersonalPortfolio)**
 - 🌱 I’m currently expanding my knowledge in web development and systems prototype design.
@@ -103,5 +102,4 @@ SPOTIFY INTEGRATION INSTRUCTIONS:
 
 ### 📫 Connect with Me
 
-* 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/[your_linkedin]) (replace with your link!)
-* 📧 Email: [[your_email]@example.com](mailto:[your_email]@example.com)
+* 📧 Email: [capisondajhonedrian@gmail.com](mailto:capisondajhonedrian@gmail.com)
