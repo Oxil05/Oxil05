@@ -9,9 +9,6 @@
 
 <h3 align="center">🚀 Networking Engineer & Open Source Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/normal-badge.png?id=Oxil05&color=purple&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
 <!-- HEADER END -->
 
 ---
@@ -48,23 +45,6 @@ I am a passionate networking engineer who loves building clean, modular, and rel
 
 * 🌐 **[PersonalPortfolio](https://github.com/Oxil05/PersonalPortfolio)**: A personal portfolio website designed to showcase my projects, skills, and professional journey.
 * 💧 **[WaterStationPrototype](https://github.com/Oxil05/WaterStationPrototype)**: A Python-based case study prototype demonstrating hardware/software integration concept models.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Oxil05&show_icons=true&theme=radical&hide_border=true&title_color=00d2ff&icon_color=00d2ff" alt="GitHub Stats" height="190" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxil05&layout=compact&theme=radical&hide_border=true&title_color=00d2ff" alt="Top Languages" height="190" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oxil05&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
 
 ---
 
