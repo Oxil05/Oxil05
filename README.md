@@ -75,28 +75,11 @@ I am a passionate networking engineer who loves building clean, modular, and rel
 ### 🏆 Achievements & Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/Oxil05">
     <img src="https://github-profile-trophy.vercel.app/?username=Oxil05&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="Github Trophies" />
   </a>
 </p>
 
----
-
-### 🎵 What I'm Listening To
-
-<!-- 
-SPOTIFY INTEGRATION INSTRUCTIONS:
-1. Go to: https://spotify-github-profile.kittinanx.com/
-2. Log in with your Spotify account.
-3. Customize your theme (e.g., set theme to 'radical' or 'dark').
-4. Copy the generated image URL (the 'src' attribute).
-5. Replace the 'src' in the <img> tag below with your custom URL!
--->
-<p align="center">
-  <a href="https://open.spotify.com/user/[your_spotify_username]">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=[your_spotify_uid_placeholder]&cover_image=true&theme=radical" alt="Spotify Currently Playing" />
-  </a>
-</p>
 
 ---
 
