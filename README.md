@@ -54,31 +54,16 @@ I am a passionate networking engineer who loves building clean, modular, and rel
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Oxil05">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Oxil05&show_icons=true&theme=radical&hide_border=true&title_color=00d2ff&icon_color=00d2ff" alt="GitHub Stats" height="190" />
-  </a>
-  <a href="https://github.com/Oxil05">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxil05&layout=compact&theme=radical&hide_border=true&title_color=00d2ff" alt="Top Languages" height="190" />
-  </a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Oxil05&show_icons=true&theme=radical&hide_border=true&title_color=00d2ff&icon_color=00d2ff" alt="GitHub Stats" height="190" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxil05&layout=compact&theme=radical&hide_border=true&title_color=00d2ff" alt="Top Languages" height="190" />
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Oxil05">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oxil05&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oxil05&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
-### 🏆 Achievements & Trophies
-
-<p align="center">
-  <a href="https://github.com/Oxil05">
-    <img src="https://github-profile-trophy.vercel.app/?username=Oxil05&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="Github Trophies" />
-  </a>
-</p>
 
 
 ---
