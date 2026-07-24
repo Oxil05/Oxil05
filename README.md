@@ -56,6 +56,16 @@ I am an aspiring network engineer who loves building clean, modular, and reliabl
 
 ---
 
+### 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oxil05/Oxil05/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oxil05/Oxil05/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Oxil05/Oxil05/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 ### 📫 Connect with Me
 
 * 📧 Email: [capisondajhonedrian@gmail.com](mailto:capisondajhonedrian@gmail.com)
