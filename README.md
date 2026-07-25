@@ -27,17 +27,33 @@ I am an aspiring network engineer who loves building clean, modular, and reliabl
 ### 💻 Technologies & Tools
 
 <p align="left">
+  <!-- Networking & Systems -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Wireshark-167EC1?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <br/>
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  
-  <!-- Frameworks/Libraries -->
   <br/>
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
+---
+
+### 🌐 Networking Focus & Goals
+
+- 🎯 **Target Certification**: Preparing for **Cisco CCNA** (Cisco Certified Network Associate)
+- 🛠️ **Core Areas**: Routing & Switching, TCP/IP Suite, VLANs, Subnetting & IP Addressing
+- 🔒 **Network Security & Analysis**: Packet Analysis (Wireshark), Firewall Basics, Network Topology Design
+- 🐍 **Network Automation**: Scripting network management & automation tasks using Python
+
 
 ---
 
@@ -63,6 +79,14 @@ I am an aspiring network engineer who loves building clean, modular, and reliabl
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oxil05/Oxil05/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Oxil05/Oxil05/output/github-contribution-grid-snake.svg" />
 </picture>
+
+---
+
+### 💬 Daily Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
+</p>
 
 ---
 
